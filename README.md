@@ -2,15 +2,6 @@
 # Introduction to GitHub
 
 
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
