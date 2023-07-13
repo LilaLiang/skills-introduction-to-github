@@ -40,7 +40,7 @@
 <details id=2>
 <summary><h2>Step 2: Commit a file</h2></summary>
 
-_You created a branch! :tada:_
+
 
 Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
 
